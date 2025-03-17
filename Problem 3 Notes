@@ -1,0 +1,6 @@
+1. This program finds all prime numbers in range. The program runs very slowly because it loops from all numbers between 2 and x-1.
+This is very slow and unnecessary.
+
+2.  I made it so that the program would take the square root of the number to determine its range. I also made it so all even numbers were skipped. I also removed the prime variable that was unnecessary.
+
+3. This is much faster than the original method over tens of thousands of times faster. This method is not the fastest method though and there are faster ways to solve this problem.

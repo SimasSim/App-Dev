@@ -1,0 +1,8 @@
+1. The programs goal is to count duplicate values in a large data set. The program crashes because the loop that check for duplicates iterates too far and goes past the
+dataset leading to an index error. This program also uses i as the key instead of the number that is counted. The old program also sorted in ascending order
+not descending order.
+
+2. I changed how the loop iterates so that it stops before the last values. I also used the value of the numbers from the list to count duplicates instead of having
+i be the key. I also made the the program sort in descending order.
+
+3. This solution is fine and should work in most cases unless it is used for a very very large data set.

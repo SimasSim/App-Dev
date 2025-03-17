@@ -1,0 +1,8 @@
+1. This program makes a matching game, and matching games need an even total number of item to play, This program crashes because it chooses two tiles at a time to
+assign a color so when an odd number of tiles is present the code cannot complete.
+
+2. I made it so that if two odd numbers were entered by the user the columns would be made even so that the game could be completed.
+
+3. My solutions main drawback is that it does not actually follow what the user requested, but if i did follow as the user requested than the game could not be completed.
+I figured this would be the best solution because the board will still look nice and not have a single tile attached to make the total even, and it does not have an odd number
+of tiles meaning it can actually be completed.
